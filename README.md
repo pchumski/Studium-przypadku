@@ -72,3 +72,5 @@ jupyter notebook skrypt.ipynb
 ## 📄 Licencja
 
 Projekt udostępniony na licencji [MIT](LICENSE).
+
+Last update 06.2023
