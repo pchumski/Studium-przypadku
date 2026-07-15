@@ -2,7 +2,7 @@
 
 Studium przypadku zrealizowane w ramach przedmiotu **Systemy uczące się** na Politechnice Poznańskiej (Wydział Informatyki i Telekomunikacji, Zakład Uczenia Maszynowego). Projekt obejmuje pełny proces analityczny: od eksploracji danych, przez inżynierię cech, po trenowanie i strojenie kilku modeli klasyfikacyjnych.
 
-**Autor:** Paweł Chumski
+**Autor:** inż. Paweł Chumski
 **Prowadzący:** dr hab. inż. Maciej Komosiński, prof. PP
 **Data:** czerwiec 2023
 
